@@ -97,16 +97,6 @@ Each record includes:
 
 The final model demonstrated significant improvement in targeting customers who are more likely to respond to promotions, thereby increasing Starbucks' potential revenue while keeping promotional costs in check.
 
-## Repository Structure
-
-├── Starbucks.ipynb # Main notebook for the analysis and model building 
-├── Starbucks-zh.ipynb # Notebook (Chinese version) 
-├── training.csv # Training dataset 
-├── Test.csv # Test dataset 
-├── test_results.py # Python script for testing model results 
-└── README.md # Project overview and documentation (this file)
-
-
 ## Conclusion
 
 This project showcases the ability to use data science and machine learning techniques to optimize marketing strategies in a real-world scenario. By analyzing customer data and targeting promotions more effectively, companies like Starbucks can improve both customer satisfaction and profitability.
