@@ -105,7 +105,7 @@ This project showcases the ability to use data science and machine learning tech
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Starbucks-Promotion-Project.git
+   git clone https://github.com/yashnayi234/Starbucks-Promotion-Project.git
 
 
   ```pip install -r requirements.txt```
